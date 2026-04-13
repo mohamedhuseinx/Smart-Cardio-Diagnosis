@@ -2,6 +2,8 @@
 
 AI-powered web application for predicting heart disease risk using Machine Learning.
 
+## 🚀 Live Demo
+https://smart-cardio-diagnosis-4n6zdcy7wr7kkfzr5ugftr.streamlit.app/
 ---
 
 ## 🚀 Overview
