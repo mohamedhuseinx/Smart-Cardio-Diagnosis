@@ -3,9 +3,9 @@
 AI-powered web application for predicting heart disease risk using Machine Learning.
 
 ## 🚀 Live Demo
-https://smart-cardio-diagnosis-4n6zdcy7wr7kkfzr5ugftr.streamlit.app/
----
+https://smart-cardio-diagnosis-ysf2juewewnif8z7mvvehl.streamlit.app/
 
+---
 ## 🚀 Overview
 
 CardioRisk AI is an end-to-end machine learning project that predicts the likelihood of heart disease based on patient medical data.
